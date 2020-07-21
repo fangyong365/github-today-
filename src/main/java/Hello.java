@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("hello");
         System.out.println("更新1");
         System.out.println("更新2");
+        System.out.println("分支操作1");
 
     }
 }
